@@ -2,7 +2,7 @@
 name = "validators-options"
 version = "0.23.1"
 authors = ["Magic Len <len@magiclen.org>"]
-edition = "2018"
+edition = "2021"
 repository = "https://github.com/magiclen/validators"
 homepage = "https://magiclen.org/validators"
 keywords = ["validator", "validation", "user"]
